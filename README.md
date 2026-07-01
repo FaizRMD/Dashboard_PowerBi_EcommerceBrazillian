@@ -1,5 +1,7 @@
 # Dashboard_PowerBi_EcommerceBrazillian
 **Link dataset : https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce**
+<img width="812" height="408" alt="image" src="https://github.com/user-attachments/assets/23852742-525a-4de0-98ed-7a8380a747c0" />
+
 
 Project ini merupakan pembuatan dashboard Business Intelligence berbasis Power BI untuk menganalisis performa operasional e-commerce menggunakan data transaksi nyata dari platform Olist, marketplace terbesar di Brazil. Tujuannya adalah mengubah data transaksi mentah yang tersebar di banyak tabel menjadi satu tampilan visual interaktif yang membantu pengambilan keputusan bisnis dari tiga sisi utama: performa penjualan, efisiensi logistik/pengiriman, dan kepuasan pelanggan. Alur kerja project terbagi menjadi dua tahap, yaitu pra-pemrosesan data (data cleaning) menggunakan Python di Google Colab, dan visualisasi data menggunakan Power BI untuk membangun dashboard interaktif yang dilengkapi filter dan berbagai jenis chart.
 
